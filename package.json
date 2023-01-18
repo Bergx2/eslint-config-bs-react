@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-bs-react",
+  "version": "1.0.0",
+  "description": "Set of eslint rules",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bergx2/eslint-config-bs-react.git"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  },
+  "author": "Denis Rybalka <denis@bergx2.de>",
+  "license": "ISC"
+}
