@@ -14,6 +14,9 @@ module.exports = {
     'react/jsx-one-expression-per-line': 0,
     'react/jsx-closing-tag-location': 0,
     'react/jsx-fragments': 0,
+    'react/function-component-definition': 0,
+    'react/jsx-no-useless-fragment': 0,
+    'react/no-unstable-nested-components': 0
   },
   settings: {
     react: {
